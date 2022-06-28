@@ -1,0 +1,1 @@
+el index.html tiene para mostrar video con un marcador, el index2 tiene para mostrar video con una imagen
